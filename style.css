@@ -2,7 +2,7 @@
   padding: 0px;
   margin: 0px;
   box-sizing: border-box;
-  
+  list-style: none !important;
 }
 body{
     overflow-x: hidden;
@@ -18,3 +18,7 @@ body{
 .title {
  padding: 93px;
 }
+.contact{
+margin: 15px 200px;
+}
+
